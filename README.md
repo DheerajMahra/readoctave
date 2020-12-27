@@ -4,6 +4,7 @@ A collection of short tech articles you can read daily while having your cup of 
 ### Table of Contents
 
 - [JavaScript](#javascript)
+- [React](#react)
 - [Styled-Components](#styled-components)
 
 ## JavaScript
@@ -14,6 +15,14 @@ A collection of short tech articles you can read daily while having your cup of 
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bekk Christmas](https://bekk.christmas/)                                                                                                     |
 | [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) |
+
+## React
+
+> ⚛️ Stay updated with the hottest JS library out there in the market!
+
+| Link                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)                |
 
 ## Styled-Components
 
