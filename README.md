@@ -23,6 +23,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | Link                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)                |
+| [Why not to use index as a key](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)                              |
 
 ## Styled-Components
 
