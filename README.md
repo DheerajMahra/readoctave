@@ -6,6 +6,7 @@ A collection of short tech articles you can read daily while having your cup of 
 - [JavaScript](#javascript)
 - [React](#react)
 - [Styled-Components](#styled-components)
+- [Redux](#redux)
 
 ## JavaScript
 
@@ -32,3 +33,11 @@ A collection of short tech articles you can read daily while having your cup of 
 | Link                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [Styled-Components tips & tricks by Vilva Athiban](https://medium.com/@vilvaathiban/react-styled-components-a-smart-way-26ff8bfdaec7) |
+
+## Redux
+
+> ⚛️ JavaScript state management tool
+
+| Link                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Redux Undo/Redo](https://github.com/omnidan/redux-undo) |
