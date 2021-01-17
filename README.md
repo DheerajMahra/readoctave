@@ -16,6 +16,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bekk Christmas](https://bekk.christmas/)                                                                                                     |
 | [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) |
+| [Event Loop story illustrated](https://dev.to/kapantzak/js-illustrated-the-event-loop-4mco)                                                   |
 
 ## React
 
