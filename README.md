@@ -29,6 +29,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | [Why not to use index as a key](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)                              |
 | [Race Condition & Avoiding it in React](https://medium.com/hackernoon/avoiding-race-conditions-when-fetching-data-with-react-hooks-220d6fd0f663) |
 | [I Almost Got Fired for Choosing React in Our Enterprise App (Read responses as well)](https://medium.com/better-programming/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c) |
+| [Understand render, re-render, commit and improve slow renders](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render) |
 
 ## Styled-Components
 
