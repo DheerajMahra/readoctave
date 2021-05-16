@@ -18,6 +18,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) |
 | [Event Loop story illustrated](https://dev.to/kapantzak/js-illustrated-the-event-loop-4mco)                                                   |
 | [Function Invocation and this explained beautifully](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)|
+| [Read this to understand closures - by Dan Abramov](https://whatthefuck.is/closure) |
 
 ## React
 
