@@ -3,14 +3,24 @@ A collection of short tech articles you can read daily while having your cup of 
 
 ### Table of Contents
 
+- [Browsers](#browsers)
 - [JavaScript](#javascript)
 - [React](#react)
 - [Styled-Components](#styled-components)
 - [Redux](#redux)
 
+## Browsers
+
+
+> 🌐 Deep dive on how browsers work 
+
+| Link                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------- |
+| [How browsers work behind the scenes](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) |
+
 ## JavaScript
 
-> 🌐 Awesome collection of javascript articles and blogs that are worth a read!
+>💻 Awesome collection of javascript articles and blogs that are worth a read!
 
 | Link                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------- |
