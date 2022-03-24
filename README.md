@@ -31,6 +31,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/) |
 | [Function Invocation and "this" explained beautifully](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)|
 | [Read this to understand closures - by Dan Abramov](https://whatthefuck.is/closure) |
+| [Array.filter(Boolean) trick](https://michaeluloth.com/filter-boolean) |
 
 ## React
 
