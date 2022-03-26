@@ -18,6 +18,7 @@ A collection of short tech articles you can read daily while having your cup of 
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [How browsers work behind the scenes](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) |
 | [Different modern rendering patterns](https://www.patterns.dev/posts/rendering-patterns/) |
+| [Script tag location matters!](https://flaviocopes.com/javascript-async-defer/#the-position-matters) |
 
 ## JavaScript
 
