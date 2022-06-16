@@ -34,6 +34,14 @@ A collection of short tech articles you can read daily while having your cup of 
 | [Read this to understand closures - by Dan Abramov](https://whatthefuck.is/closure) |
 | [Array.filter(Boolean) trick](https://michaeluloth.com/filter-boolean) |
 
+## TypeScript
+
+>💻 Awesome collection of typescript articles and blogs that are worth a read!
+
+| Link                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [TypeScript’s type notation](https://2ality.com/2018/04/type-notation-typescript.html)                                                        |
+
 ## React
 
 > ⚛️ Stay updated with the hottest JS library out there in the market!
